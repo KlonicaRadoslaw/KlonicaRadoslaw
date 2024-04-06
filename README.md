@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlonicaRadoslaw
 - 👀 I’m interested in IT and automotive
-- 🌱 I’m currently learning programming in Python
+- 🌱 I’m currently learning programming in .NET
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
