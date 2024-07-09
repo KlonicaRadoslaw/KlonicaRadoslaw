@@ -2,7 +2,7 @@
 
 **`💻 .NET Developer | 🌐 ASP.NET Enthusiast | 🐳 Docker Aficionado`**
 
-I'm a passionate .NET developer with a strong focus on building robust and scalable web applications using ASP.NET. With a deep understanding of the .NET ecosystem, I enjoy leveraging its power to create efficient, high-performing solutions. Recently, I've been exploring Docker to containerize my applications, ensuring consistent environments and seamless deployments. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a passionate .NET developer with a strong focus on building robust and scalable web applications using ASP.NET. With a deep understanding of the .NET ecosystem, I enjoy leveraging its power to create efficient, high-performing solutions. Recently, I've been exploring Docker to containerize my applications, ensuring consistent environments and seamless deployments.
 
 ---
 
